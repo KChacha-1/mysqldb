@@ -1,0 +1,41 @@
+Sector_ID,Sector_Name,Sub_Sector_Name
+1,Biotechnology,Nanobiology
+2,Biotechnology,Synthetic biology
+3,Biotechnology,Genomic and genetic engineering
+4,Biotechnology,Neurotech
+5,Artificial intelligence (AI) and machine learning technology,Neural networks and deep learning
+6,Artificial intelligence (AI) and machine learning technology, Evolution and genetic computation 
+7,Artificial intelligence (AI) and machine learning technology,Reinforcement learning
+8,"Position, Navigation, and Timing (PNT) technology","Position, Navigation, and Timing (PNT) technology"
+9,Microprocessor technology,Systems-on-Chip (SoC)
+10,Microprocessor technology,Stacked Memory on Chip
+11,Advanced computing technology,Memory-centric logic
+12,Data analytics technology,Visualization
+13,Data analytics technology,Automated analysis algorithms
+14,Data analytics technology,Context-aware computing
+15,Quantum information and sensing technology,Quantum computing
+16,Quantum information and sensing technology,Quantum encryption
+17,Quantum information and sensing technology,Quantum sensing
+18,Logistics technology,Mobile electric power
+19,Logistics technology,Modeling and simulation
+20,Logistics technology,Total asset visibility
+21,Logistics technology,Distribution-based Logistics Systems 
+22,Additive manufacturing,Additive manufacturing
+23,Robotics,Micro-drone and micro-robotic systems
+24,Robotics,Swarming technology
+25,Robotics,Self-assembling robots
+26,Robotics,Molecular robotics
+27,Robotics,Robot compliers
+28,Robotics,Smart Dust
+29,Brain-computer interfaces,Neural-controlled interfaces
+30,Brain-computer interfaces,Mind-machine interfaces
+31,Brain-computer interfaces,Direct neural interfaces
+32,Brain-computer interfaces,Brain-machine interfaces
+33,Hypersonics,Flight control algorithms
+34,Hypersonics,Propulsion technologies
+35,Hypersonics,Thermal protection systems
+36,Hypersonics,Specialized materials 
+37,Advanced Materials,Adaptive camouflage
+38,Advanced Materials,Functional textiles
+39,Advanced Materials,Biomaterials
+40,Advanced surveillance technologies,Faceprint and voiceprint technologies

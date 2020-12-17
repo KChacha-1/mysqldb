@@ -1,0 +1,246 @@
+Country_ID,Country_Name,Risk_Factor
+AD,Andorra,Low Risk
+AE,United Arab Emirates,Low Risk
+AF,Afghanistan,Low Risk
+AG,Antigua and Barbuda,Low Risk
+AI,Anguilla,Low Risk
+AL,Albania,Low Risk
+AM,Armenia,Low Risk
+AN,Netherlands Antilles,Low Risk
+AO,Angola,Low Risk
+AQ,Antarctica,Low Risk
+AR,Argentina,Low Risk
+AS,American Samoa,Low Risk
+AT,Austria,Low Risk
+AU,Australia,Low Risk
+AW,Aruba,Low Risk
+AZ,Azerbaijan,Low Risk
+BA,Bosnia and Herzegovina,Low Risk
+BB,Barbados,Low Risk
+BD,Bangladesh,Low Risk
+BE,Belgium,Low Risk
+BF,Burkina Faso,Low Risk
+BG,Bulgaria,Low Risk
+BH,Bahrain,Low Risk
+BI,Burundi,Low Risk
+BJ,Benin,Low Risk
+BM,Bermuda,Low Risk
+BN,Brunei,Low Risk
+BO,Bolivia,Low Risk
+BR,Brazil,Low Risk
+BS,Bahamas,Low Risk
+BT,Bhutan,Low Risk
+BV,Bouvet Island,Low Risk
+BW,Botswana,Low Risk
+BY,Belarus,Low Risk
+BZ,Belize,Low Risk
+CA,Canada,Low Risk
+CC,Cocos [Keeling] Islands,Low Risk
+CD,Congo [DRC],Low Risk
+CF,Central African Republic,Low Risk
+CG,Congo [Republic],Low Risk
+CH,Switzerland,Low Risk
+CI,Côte d'Ivoire,Low Risk
+CK,Cook Islands,Low Risk
+CL,Chile,Low Risk
+CM,Cameroon,Low Risk
+CN,China,High Risk
+CO,Colombia,Low Risk
+CR,Costa Rica,Low Risk
+CU,Cuba,Low Risk
+CV,Cape Verde,Low Risk
+CX,Christmas Island,Low Risk
+CY,Cyprus,Low Risk
+CZ,Czech Republic,Low Risk
+DE,Germany,Low Risk
+DJ,Djibouti,Low Risk
+DK,Denmark,Low Risk
+DM,Dominica,Low Risk
+DO,Dominican Republic,Low Risk
+DZ,Algeria,Low Risk
+EC,Ecuador,Low Risk
+EE,Estonia,Low Risk
+EG,Egypt,Low Risk
+EH,Western Sahara,Low Risk
+ER,Eritrea,Low Risk
+ES,Spain,Low Risk
+ET,Ethiopia,Low Risk
+FI,Finland,Low Risk
+FJ,Fiji,Low Risk
+FK,Falkland Islands [Islas Malvinas],Low Risk
+FM,Micronesia,Low Risk
+FO,Faroe Islands,Low Risk
+FR,France,Low Risk
+GA,Gabon,Low Risk
+GB,United Kingdom,Low Risk
+GD,Grenada,Low Risk
+GE,Georgia,Low Risk
+GF,French Guiana,Low Risk
+GG,Guernsey,Low Risk
+GH,Ghana,Low Risk
+GI,Gibraltar,Low Risk
+GL,Greenland,Low Risk
+GM,Gambia,Low Risk
+GN,Guinea,Low Risk
+GP,Guadeloupe,Low Risk
+GQ,Equatorial Guinea,Low Risk
+GR,Greece,Low Risk
+GS,South Georgia and the South Sandwich Islands,Low Risk
+GT,Guatemala,Low Risk
+GU,Guam,Low Risk
+GW,Guinea-Bissau,Low Risk
+GY,Guyana,Low Risk
+GZ,Gaza Strip,Low Risk
+HK,Hong Kong,Low Risk
+HM,Heard Island and McDonald Islands,Low Risk
+HN,Honduras,Low Risk
+HR,Croatia,Low Risk
+HT,Haiti,Low Risk
+HU,Hungary,Low Risk
+ID,Indonesia,Low Risk
+IE,Ireland,Low Risk
+IL,Israel,Low Risk
+IM,Isle of Man,Low Risk
+IN,India,Low Risk
+IO,British Indian Ocean Territory,Low Risk
+IQ,Iraq,Low Risk
+IR,Iran,High Risk
+IS,Iceland,Low Risk
+IT,Italy,Low Risk
+JE,Jersey,Low Risk
+JM,Jamaica,Low Risk
+JO,Jordan,Low Risk
+JP,Japan,Low Risk
+KE,Kenya,Low Risk
+KG,Kyrgyzstan,Low Risk
+KH,Cambodia,Low Risk
+KI,Kiribati,Low Risk
+KM,Comoros,Low Risk
+KN,Saint Kitts and Nevis,Low Risk
+KP,North Korea,Low Risk
+KR,South Korea,Low Risk
+KW,Kuwait,Low Risk
+KY,Cayman Islands,Low Risk
+KZ,Kazakhstan,Low Risk
+LA,Laos,Low Risk
+LB,Lebanon,Low Risk
+LC,Saint Lucia,Low Risk
+LI,Liechtenstein,Low Risk
+LK,Sri Lanka,Low Risk
+LR,Liberia,Low Risk
+LS,Lesotho,Low Risk
+LT,Lithuania,Low Risk
+LU,Luxembourg,Low Risk
+LV,Latvia,Low Risk
+LY,Libya,Low Risk
+MA,Morocco,Low Risk
+MC,Monaco,Low Risk
+MD,Moldova,Low Risk
+ME,Montenegro,Low Risk
+MG,Madagascar,Low Risk
+MH,Marshall Islands,Low Risk
+MK,Macedonia [FYROM],Low Risk
+ML,Mali,Low Risk
+MM,Myanmar [Burma],Low Risk
+MN,Mongolia,Low Risk
+MO,Macau,Low Risk
+MP,Northern Mariana Islands,Low Risk
+MQ,Martinique,Low Risk
+MR,Mauritania,Low Risk
+MS,Montserrat,Low Risk
+MT,Malta,Low Risk
+MU,Mauritius,Low Risk
+MV,Maldives,Low Risk
+MW,Malawi,Low Risk
+MX,Mexico,Low Risk
+MY,Malaysia,Low Risk
+MZ,Mozambique,Low Risk
+NA,Namibia,Low Risk
+NC,New Caledonia,Low Risk
+NE,Niger,Low Risk
+NF,Norfolk Island,Low Risk
+NG,Nigeria,Low Risk
+NI,Nicaragua,Low Risk
+NL,Netherlands,Low Risk
+NO,Norway,Low Risk
+NP,Nepal,Low Risk
+NR,Nauru,Low Risk
+NU,Niue,Low Risk
+NZ,New Zealand,Low Risk
+OM,Oman,Low Risk
+PA,Panama,Low Risk
+PE,Peru,Low Risk
+PF,French Polynesia,Low Risk
+PG,Papua New Guinea,Low Risk
+PH,Philippines,Low Risk
+PK,Pakistan,Low Risk
+PL,Poland,Low Risk
+PM,Saint Pierre and Miquelon,Low Risk
+PN,Pitcairn Islands,Low Risk
+PR,Puerto Rico,Low Risk
+PS,Palestinian Territories,Low Risk
+PT,Portugal,Low Risk
+PW,Palau,Low Risk
+PY,Paraguay,Low Risk
+QA,Qatar,Low Risk
+RE,Réunion,Low Risk
+RO,Romania,Low Risk
+RS,Serbia,Low Risk
+RU,Russia,Low Risk
+RW,Rwanda,Low Risk
+SA,Saudi Arabia,Low Risk
+SB,Solomon Islands,Low Risk
+SC,Seychelles,Low Risk
+SD,Sudan,Low Risk
+SE,Sweden,Low Risk
+SG,Singapore,Low Risk
+SH,Saint Helena,Low Risk
+SI,Slovenia,Low Risk
+SJ,Svalbard and Jan Mayen,Low Risk
+SK,Slovakia,Low Risk
+SL,Sierra Leone,Low Risk
+SM,San Marino,Low Risk
+SN,Senegal,Low Risk
+SO,Somalia,High Risk
+SR,Suriname,Low Risk
+ST,São Tomé and Príncipe,Low Risk
+SV,El Salvador,Low Risk
+SY,Syria,Low Risk
+SZ,Swaziland,Low Risk
+TC,Turks and Caicos Islands,Low Risk
+TD,Chad,Low Risk
+TF,French Southern Territories,Low Risk
+TG,Togo,Low Risk
+TH,Thailand,Low Risk
+TJ,Tajikistan,Low Risk
+TK,Tokelau,Low Risk
+TL,Timor-Leste,Low Risk
+TM,Turkmenistan,Low Risk
+TN,Tunisia,Low Risk
+TO,Tonga,Low Risk
+TR,Turkey,Low Risk
+TT,Trinidad and Tobago,Low Risk
+TV,Tuvalu,Low Risk
+TW,Taiwan,Low Risk
+TZ,Tanzania,Low Risk
+UA,Ukraine,High Risk
+UG,Uganda,Low Risk
+UM,U.S. Minor Outlying Islands,Low Risk
+US,United States,Low Risk
+UY,Uruguay,Low Risk
+UZ,Uzbekistan,Low Risk
+VA,Vatican City,Low Risk
+VC,Saint Vincent and the Grenadines,Low Risk
+VE,Venezuela,High Risk
+VG,British Virgin Islands,Low Risk
+VI,U.S. Virgin Islands,Low Risk
+VN,Vietnam,Low Risk
+VU,Vanuatu,Low Risk
+WF,Wallis and Futuna,Low Risk
+WS,Samoa,Low Risk
+XK,Kosovo,Low Risk
+YE,Yemen,Low Risk
+YT,Mayotte,Low Risk
+ZA,South Africa,Low Risk
+ZM,Zambia,Low Risk
+ZW,Zimbabwe,Low Risk
